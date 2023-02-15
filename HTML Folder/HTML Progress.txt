@@ -1,0 +1,17 @@
+HTML Full Course(https://www.youtube.com/watch?v=pQN-pnXPaVg&lc=UgwCS2hVy1PuRBLD_eR4AaABAg):
+-done Introduction
+-done Choosing a Text Editor
+-done Creating an HTML file
+-done Basic Tags
+-done Comments
+-done Style and Color
+-done Formatting a Page
+-done Links
+-done Images
+-done Videos and Youtube iFrames
+-done Lists
+-done Tables
+-done Divs and Spans
+-done Input and Forms
+-done iFrames
+-done Meta Tags
